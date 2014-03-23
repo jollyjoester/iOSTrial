@@ -21,7 +21,6 @@
 		62A600C218DEB98E00F5B60D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62A600A418DEB98D00F5B60D /* UIKit.framework */; };
 		62A600CA18DEB98E00F5B60D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 62A600C818DEB98E00F5B60D /* InfoPlist.strings */; };
 		62A600CC18DEB98E00F5B60D /* MyFisrstAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 62A600CB18DEB98E00F5B60D /* MyFisrstAppTests.m */; };
-		62A600D618DEBAEB00F5B60D /* roge.png in Resources */ = {isa = PBXBuildFile; fileRef = 62A600D518DEBAEB00F5B60D /* roge.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		62A600C718DEB98E00F5B60D /* MyFirstAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstAppTests-Info.plist"; sourceTree = "<group>"; };
 		62A600C918DEB98E00F5B60D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		62A600CB18DEB98E00F5B60D /* MyFisrstAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFisrstAppTests.m; sourceTree = "<group>"; };
-		62A600D518DEBAEB00F5B60D /* roge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roge.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +82,6 @@
 		62A6009418DEB98D00F5B60D = {
 			isa = PBXGroup;
 			children = (
-				62A600D518DEBAEB00F5B60D /* roge.png */,
 				62A600A618DEB98E00F5B60D /* MyFirstApp */,
 				62A600C518DEB98E00F5B60D /* MyFirstAppTests */,
 				62A6009F18DEB98D00F5B60D /* Frameworks */,
@@ -233,7 +230,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				62A600D618DEBAEB00F5B60D /* roge.png in Resources */,
 				62A600B918DEB98E00F5B60D /* Images.xcassets in Resources */,
 				62A600AB18DEB98E00F5B60D /* InfoPlist.strings in Resources */,
 				62A600B418DEB98E00F5B60D /* Main.storyboard in Resources */,
