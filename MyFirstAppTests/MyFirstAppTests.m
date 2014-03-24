@@ -1,18 +1,18 @@
 //
-//  MyFisrstAppTests.m
-//  MyFisrstAppTests
+//  MyFirstAppTests.m
+//  MyFirstAppTests
 //
-//  Created by jollyjoester_pro on 2014/03/23.
+//  Created by jollyjoester_pro on 2014/03/24.
 //  Copyright (c) 2014年 jollyjoester. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface MyFisrstAppTests : XCTestCase
+@interface MyFirstAppTests : XCTestCase
 
 @end
 
-@implementation MyFisrstAppTests
+@implementation MyFirstAppTests
 
 - (void)setUp
 {

@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  MyFisrstApp
+//  MyFirstApp
 //
-//  Created by jollyjoester_pro on 2014/03/23.
+//  Created by jollyjoester_pro on 2014/03/24.
 //  Copyright (c) 2014年 jollyjoester. All rights reserved.
 //
 
@@ -19,8 +19,7 @@
 {
     [super viewDidLoad];
 
-    [_label setHidden:YES];
-    
+	[_label setHidden:YES];
 }
 
 - (IBAction)pushedButton:(id)sender {
@@ -32,9 +31,9 @@
     }else{
         
         [_label setHidden:YES];
-    
+        
     }
-
+    
 }
 
 - (void)didReceiveMemoryWarning
