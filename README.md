@@ -1,6 +1,6 @@
 iOSTrial
 ========
 
-iPhone開発入門者のための最初の一歩です。
+iPhone開発入門者のための最初の一歩アプリです。
 
-開発の手順は[Wiki](https://github.com/jollyjoester/iOSTrial/wiki)参照。
+開発テキストは[Wiki](https://github.com/jollyjoester/iOSTrial/wiki)参照。
